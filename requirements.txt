@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+scipy
+beautifulsoup4
+requests
+selenium
+sqlalchemy
+tqdm
+pymysql
+seaborn
+xgboost
+lightgbm
+catboost
