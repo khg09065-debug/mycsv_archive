@@ -13,3 +13,8 @@ seaborn
 xgboost
 lightgbm
 catboost
+folium
+flask
+uvicorn
+axios
+react
